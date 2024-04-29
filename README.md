@@ -66,4 +66,4 @@ RegisterNumber:212223040201
 
 
 **Result:**
-Therefore the code has been executed successfully .
+The output of SR_FLIPFLOP_USING_CASE has been executed successfully.
